@@ -1,4 +1,4 @@
-# Calculate Special Bonus\
+# Calculate Special Bonus
 
 <details>
 <summary>SQL Schema</summary>
