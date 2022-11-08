@@ -160,5 +160,5 @@ Write an SQL query to report all customers who never order anything.
 Return the result table in any order.
 
 ~~~bash
-echo "End Of Day"
+echo "End Of Day 1"
 ~~~
