@@ -1,4 +1,4 @@
--- Problem: https://github.com/RAOexe/Study-Plan/blob/main/SQL%20I/Day%20I/README.md#
+-- Problem: https://github.com/RAOexe/Study-Plan/blob/main/SQL%20I/Day%201/README.md#recyclable-and-low-fat-products
 
 -- Code
 
